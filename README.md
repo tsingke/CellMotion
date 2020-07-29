@@ -2,7 +2,7 @@
 细胞运动轨迹绘制
 
 
-![image](cell_motion.jpg)
+![image](https://github.com/tsingke/CellMotion/blob/master/CellMotionCode/ExperimentResults/cell_motion.jpg)
 
 ```matlab
 % -----------------------------------
